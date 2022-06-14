@@ -1,1 +1,1 @@
-! [Tela de login Instagram](img/tela.png)
+![Tela de login Instagram](https://github.com/joaozamarin/interface-instagram/blob/master/img/tela.png?raw=true)
